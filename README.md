@@ -67,6 +67,7 @@ This is a project which deploys a web application(Item-Catelog) on a configured 
 * PostgreSQL: sql used for webapp
 * Flask: Framework of webapp
 * SQLAlchemy: Python SQL toolkit
+* Google oauth2: For authenticaion of webapp
 * Apache2: HTTP Server
 * WSGI_Mod: An Apache module which can host any Python web application
 

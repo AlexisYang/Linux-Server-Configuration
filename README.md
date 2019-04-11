@@ -9,8 +9,8 @@ This is a project which deploys a web application(Item-Catelog) on a configured 
 * ssh linux server via private key and port 2200 ```ssh garder@54.180.135.195 -i garder -p 2200```
 
 ## Quick Start
-* Access ```http://54.180.135.195.xip.io```
-* Follow the instuctions of ```README.md``` in repository **Item-Catelog**
+* Access ```http://54.180.135.195.xip.io``` and start browsing the web application
+* The instuctions of the web application is described in ```README.md``` in repository **Item-Catelog**
 
 ## Installed Packages
 * Ubuntu

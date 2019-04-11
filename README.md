@@ -5,8 +5,8 @@ _______________________
 This is a project which deploys a web application(Item-Catelog) on a configured linux server
 
 ## Accessing the linux server
-* Download ```garder.pem``` from this repository
-* ```ssh garder@54.180.135.195 -i garder.pem -p 2200```
+* Download ssh private key ```garder``` from this repository
+* ssh linux server via private key and port 2200 ```ssh garder@54.180.135.195 -i garder -p 2200```
 
 ## Quick Start
 * Access ```http://54.180.135.195.xip.io```

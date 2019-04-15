@@ -63,13 +63,32 @@ This is a project which deploys a web application(Item-Catelog) on a configured 
    * apache2 configuration: ```/etc/apache2/sites-enabled/000-default.conf```
    
 ## Third-Party Resources
-* Amazon LightSail: For hosting a virtual machine to deploy the webapp
-* PostgreSQL: sql used for webapp
-* Flask: Framework of webapp
-* SQLAlchemy: Python SQL toolkit
-* Google oauth2: For authenticaion of webapp, user login and logout
-* Apache2: HTTP Server
-* WSGI_Mod: An Apache module which can host any Python web application
+* StackOverflow posts
+  * How to configure Apache to use virtualenv and python3
+  
+    https://stackoverflow.com/questions/27450998/run-mod-wsgi-with-virtualenv-or-python-with-version-different-that-system-defaul
+  * Which package to install when using python3 with psql (No module named _psycopg)
+  
+    https://stackoverflow.com/questions/21158918/django-mod-wsgi-psycopg2-improperlyconfigured-error-loading-psycopg2-module
+  * How to set secret key outside of the Flask app script
+  
+    https://stackoverflow.com/questions/35657821/the-session-is-unavailable-because-no-secret-key-was-set-set-the-secret-key-on/35657961 
+  * How to save login status in Flask app
+  
+    https://stackoverflow.com/questions/35307676/check-login-status-flask
+    
+  * How to install virtualenvwrapper in Python3
+  
+    https://medium.com/@gitudaniel/installing-virtualenvwrapper-for-python3-ad3dfea7c717
+  
+* Tutorials
+  * How to install mod_wsgi and configure Apache
+  
+    http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
+  * How to use Apache WSGI with Flask App
+  
+    https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php
+    
 
 
 ## Licience

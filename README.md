@@ -89,6 +89,10 @@ This is a project which deploys a web application(Item-Catelog) on a configured 
   
     https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php
     
+* Github repos
+  * Deploying-Flask-To-Heroku
+  
+    https://github.com/twtrubiks/Deploying-Flask-To-Heroku
 
 
 ## Licience
